@@ -19,4 +19,3 @@ while (no!=-1):
 
 print("the no of prime nos are ",pno-1)
 print("the no of composite nos are ", cno)
-    
